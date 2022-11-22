@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    
+
+
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 20px;
+    color: deeppink;
+}
+.div_speed{
+    float: left;
+    
+}
+.div_volume{
+    float: right;
+}
+.play_button{
+    font-size: 30px;
+    width: 150px;
+}
+canvas{
+    border: 5px solid gray;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#speed,#volume{
+    color: white;
+}
